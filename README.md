@@ -1,4 +1,4 @@
-# TP7DPBO2526C1
+# TP6DPBO2526C1
 Saya Selika Kanajmi dengan NIM 2408495 mengerjakan TP 7 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya
 maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan
 
